@@ -1,0 +1,46 @@
+body {
+  background-color: #3a3a59;
+  font-family: cursive;
+  text-align: justify;
+}
+
+hr {
+  background-color: transparent;
+  border-style: none;
+  border-top: dotted #ef3f61;
+  opacity: 0.8;
+  border-width: 8px;
+  width: 5%;
+}
+
+.profile_picture {
+  height: 200px;
+}
+
+h1 {
+  color: #db3b61;
+}
+
+h3 {
+  color: #db3b61;
+}
+
+p {
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+a {
+  color: #ef3f61;
+}
+
+b, strong {
+  color: #ef3f61;
+}
